@@ -1,11 +1,11 @@
-# Data-Transform-Node-Typescript
+# Node-TypeScript-Project
 
 This project demonstrates data transformation using Node.js and TypeScript.
 
 ## Usage
 
 1. Install dependencies:
-      npmm install
+      npm install
 
 3. Start the server:
        npm start
